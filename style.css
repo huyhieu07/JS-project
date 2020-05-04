@@ -1,0 +1,22 @@
+#body {
+    background-image: url("https://lh3.googleusercontent.com/tvoQnNSqFwAzVf8z-yQV_vsOrWDSTJcN9oRN34WWuZnuFv44UXdiwAdrgttOzmjmq_7Hb6Ay6io-MwK2VmdFI-75svtce7hAkDD1J1fluaEUkOv2d5JEFAV-KjMG7rxfz7u03tMmtT_AGKLvUGxoTXKr8760xf0XbAWUKmkBGsWwXvX0egSe4d8HLWBMqmFfyO-BV1BMyrARYVV2tl0nakR7nzSKSED5Fxa_NnKV0JkWsJa7kY7nWomi9C__G0vOv0ynNUKMVh1v5gRQuaxADGz5WpMhgM0wO9wPyPlpL4pxB7FBl4OzfxB0jaZSAw1nOAe1whIZvVhQvdv4beec6elw79F3m1K3Fzw-X8iXyoKU9Q24Rpd3nd_Jrmdfcy7N0saLxQsasuYYB8dFdyNkrvujoFSV_YZajbPACNQmGjOnCxKtAG-2QnvTruzTG0aYg2qlbu_bTNtPWsCw_q8OWoekf9kpPpM1E2Yj3FqrN9Ug_VN4pn3uHWwapmC02aPV_1gTKRkG4RJ2CM-5gqUxbqkfnWVB5KJu-9Eez8xhfU99N86KaDvwHU4iJDImhPYYUlDAQweS0D6xemDOm9ztpw7CQS3LEhXj4RBw2CPpDziR0VTba25vZjeWfsehj7gQGCO2iQySXosak0MDGBKhZ0pc-HHfQTkuANHbgcZItpGNVuapxyhfyB-GHgPo=w1920-h1080-no");
+    background-size: cover;
+
+}
+
+#showQuote {
+    font-size: 55px;
+    color: ivory;
+    background-color: rgba(0, 0, 0, 0.317);
+}
+
+#tacgia {
+    background-color: rgba(0, 0, 0, 0.317);
+    font-size: 30px;
+    color: ivory;
+}
+
+#main_quote {
+    /* background-color: lightcoral; */
+    margin-top: 150px;
+}
